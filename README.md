@@ -8,4 +8,4 @@ Projeto feito em curso de Node.js + Typescript
 'npm install'
 
 ### Rodar o projeto
-'npm run start dev'
+'npm run start-dev'
