@@ -10,7 +10,8 @@ export const search = (req: Request, res: Response) => {
 
     res.render('pages/page', {
         menu: createMenuObject(''),
-        list
+        list,
+        query
     });
 
 }
